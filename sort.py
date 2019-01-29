@@ -1,3 +1,4 @@
+# quick sort
 def quick(l):
     mid = l[0]
     count = len(l)
